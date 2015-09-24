@@ -1,0 +1,5 @@
+# Nmap 6.47 scan initiated Sun Aug 16 11:51:47 2015 as: nmap -sV -p- -oA scan/scan -d 192.168.0.11
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 192.168.0.11 ()	Status: Up
+Host: 192.168.0.11 ()	Ports: 1583/open/tcp//tcpwrapped///, 2045/open/tcp//tcpwrapped///, 8060/open/tcp//http//lighttpd 1.4.28/, 8080/open/tcp//tcpwrapped///, 9955/open/tcp/////, 56789/open/tcp//tcpwrapped///, 56790/open/tcp//tcpwrapped///	Ignored State: closed (65528)
+# Nmap done at Sun Aug 16 11:52:40 2015 -- 1 IP address (1 host up) scanned in 52.26 seconds
